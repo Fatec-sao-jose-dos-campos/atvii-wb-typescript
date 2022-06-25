@@ -1,7 +1,7 @@
 # atvii-wb-typescript
 Lista 2
 # Como rodar a aplicação
-Clone o repositorio git com git clone https://github.com/Grupo-VPN/atvii-wb-typescript
+Clone o repositorio git com git clone https://github.com/grupo-LTP/atvii-wb-typescript.git
 Entre na pasta utilizando cd atvii-wb-typescript
 Siga o passo a passo para iniciar o Front
 ## Frontend
